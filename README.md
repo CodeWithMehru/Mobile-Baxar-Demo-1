@@ -37,7 +37,7 @@ Static JSON product data (no API)
 
 Clone the repository:
 
-git clone https://github.com/your-username/mobile-baxar-demo-1.git
+git clone https://github.com/CodeWithMehru/mobile-baxar-demo-1.git
 cd mobile-bazar-demo-1
 
 
